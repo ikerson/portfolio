@@ -1,5 +1,5 @@
 # Portfolio Repository
-Hello! I am Isaac Kerson. I'm a life long educator with masters degrees in Education and Data Analytics. I have held the positions of Learning Analyst at Gachon University and Lead Analytics  Engineer for Stibo Systems. I currently do Learning Analytics work at Georgia Institute of Technology. My areas of interest are educational analytics, educational data mining, and machine learning algorithms for educational tools.
+Hello! I am Isaac Kerson. I'm a life long educator with masters degrees in Education and Data Analytics. I have held the positions of Learning Analyst at Gachon University and Lead Analytics  Engineer for Stibo Systems. I currently do Learning Analytics work in my position as an Instructor for CS6040, Introduction to Python for Data Science, at Georgia Institute of Technology. My areas of interest are educational analytics, educational data mining, and machine learning algorithms for educational tools.
 
 Welcome to my portfolio repository. It contains samples of my data analytics and machine learning work. Visit my [LinkedIn profile](https://www.linkedin.com/in/isaackerson/) to see my resume and connect.
 
