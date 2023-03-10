@@ -1,2 +1,4 @@
+.gitignore
 .pynb_checkpoints
 port-env/
+portfolio.code-workspace
