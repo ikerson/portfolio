@@ -1,0 +1,2 @@
+# Flask Machine Translation API
+This is a simple Flask API that uses the [IBM Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) to translate text between English and French.

@@ -1,4 +1,5 @@
 .gitignore
-.pynb_checkpoints
+.ipynb_checkpoints
 port-env/
 portfolio.code-workspace
+kaggle.json
